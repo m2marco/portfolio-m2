@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">HTML/CSS: Estruturação e estilização de páginas web, incluindo uso de frameworks modernos.<br><br>JavaScript: Interatividade e funcionalidades dinâmicas.<br><br> - git e github: Controle de versão e colaboração em código.</p>
+<p align="left"> - HTML/CSS: Estruturação e estilização de páginas web, incluindo uso de frameworks modernos.<br><br> - JavaScript: Interatividade e funcionalidades dinâmicas.<br><br> - git e github: Controle de versão e colaboração em código.</p>
 
 ###
 
